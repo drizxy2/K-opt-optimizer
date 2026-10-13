@@ -7,7 +7,7 @@
 ![Licença](https://img.shields.io/badge/Licen%C3%A7a-Freeware%20Propriet%C3%A1rio-red?style=for-the-badge)
 
 <p align="center">
-  <img src="kopt_modern_ui_design.png" alt="Interface Moderna do K-OPT" width="850">
+  <img src="kopt.jpg" alt="Interface Moderna do K-OPT" width="850">
 </p>
 
 > **K-OPT** é um otimizador de sistema e jogos focado em estabilidade, segurança e telemetria de alta fidelidade. Projetado estritamente em **Ring 3 (Modo Usuário)**, ele gerencia afinidade de CPU e prioridades de processos em tempo real sem injeção de DLLs, sem risco de banimento por Anti-Cheat e com restauração garantida do estado original do Windows.
